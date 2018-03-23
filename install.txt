@@ -1,0 +1,11 @@
+sudo pip install ebaysdk
+
+sudo apt-get install python-lxml
+
+sudo Pip install the client
+
+sudo pip install clarifai
+
+sudo apt-get install python-dev
+
+sudo pip install Flask
